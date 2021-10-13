@@ -8,5 +8,8 @@
         "start": "node ./node/index.js"
     },
     "author": "btea",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "@babel/parser": "^7.15.8"
+    }
 }
