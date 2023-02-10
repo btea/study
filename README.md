@@ -15,3 +15,8 @@ Todo
 - [ ] [https://github.com/ronami/HypeScript](https://github.com/ronami/HypeScript)  
 - [ ] [https://javascript.info/focus-blur](https://javascript.info/focus-blur)  
 - [ ] [https://github.com/gajus/liqe](https://github.com/gajus/liqe)  
+- [ ] [https://github.com/volarjs/volar.js](https://github.com/volarjs/volar.js) 
+- [ ] [https://github.com/elk-zone/elk](https://github.com/elk-zone/elk)  
+- [ ] [https://github.com/capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)  
+- [ ] [https://github.com/vercel/satori](https://github.com/vercel/satori)  
+- [ ] [https://github.com/Swatinem/rollup-plugin-dts](https://github.com/Swatinem/rollup-plugin-dts)
