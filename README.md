@@ -20,3 +20,7 @@ Todo
 - [ ] [https://github.com/capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)  
 - [ ] [https://github.com/vercel/satori](https://github.com/vercel/satori)  
 - [ ] [https://github.com/Swatinem/rollup-plugin-dts](https://github.com/Swatinem/rollup-plugin-dts)
+- [ ] [https://github.com/vuejs/create-vue](https://github.com/vuejs/create-vue)  
+- [ ] [https://github.com/vitest-dev/vitest](https://github.com/vitest-dev/vitest)  
+- [ ] [https://github.com/tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app)  
+- [ ] [https://github.com/vitejs/vite](https://github.com/vitejs/vite)
